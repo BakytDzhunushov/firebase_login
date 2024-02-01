@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440458657879",
+    "project_id": "firebase-login-2024",
+    "storage_bucket": "firebase-login-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440458657879:android:3a553baa707441edaf6312",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_JQqR6pxusyA2bU-zcjZyvaBh6bImTa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
